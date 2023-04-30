@@ -17,3 +17,8 @@ conda activate venv
 ```
 git add app.py
 ```
+To check remote url 
+```
+git remote -v
+```
+
